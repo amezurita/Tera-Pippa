@@ -1,13 +1,8 @@
-body{
-    background-color: black;
-}
 
-body>div>div{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}
-canvas{
-    border: white solid 2px;
-   
+body{
+    background-color: violet;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
 }
