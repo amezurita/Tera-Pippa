@@ -13,6 +13,9 @@ Tera y Pippa es un juego cooperativo de plataformas.
 -Jugador 1 se mueve de derecha a izquierda con las teclas "right arrow key" y "left arrow key".
 -Jugador 2 sólo podra moverse de derecha a izquierda con las teclas "A" y "D".
 
+---
+## Thank you! Play the game [here](https://rancidsecrets.github.io/)
 
-##Thank you! :)
+
+
 
